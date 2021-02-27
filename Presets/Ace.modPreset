@@ -1,7 +1,0 @@
-<Save>
-  <Prefix>./arma3server_x64 -name=server -world=empty</Prefix>
-  <Mods>
-    <Mod>Ace</Mod>
-    <Mod>Zeus Enhanced</Mod>
-  </Mods>
-</Save>
